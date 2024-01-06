@@ -1,0 +1,6 @@
+ webbrowser
+ wikipedia
+ playsound
+ SpeechRecognition
+ gTTS
+ wolframalpha
